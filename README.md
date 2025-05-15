@@ -2,7 +2,7 @@
 ### **Azure Administrator | Cloud Automation Enthusiast | Problem Solver**  
 
  **About Me**  
-I have am specializing in **cloud infrastructure, automation, and troubleshooting**. My expertise spans configuring and managing **Compute, Storage, Networking, Application Gateway, Load Balancer, Traffic Manager, Azure Front Door, Key Vault, and Azure App Services**.  
+I  am specializing in **cloud infrastructure, automation, and troubleshooting**. My expertise spans configuring and managing **Compute, Storage, Networking, Application Gateway, Load Balancer, Traffic Manager, Azure Front Door, Key Vault, and Azure App Services**.  
 
  **Technical Skills**  
 **Azure Administration** – Compute, Storage, Networking, Traffic Manager, Key Vault  
