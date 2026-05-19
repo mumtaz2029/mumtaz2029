@@ -22,8 +22,8 @@ I build real-world infrastructure — microservices on AWS EKS, end-to-end CI/CD
 | Certification | Issuer | Valid |
 |---|---|---|
 | **AZ-104** – Azure Administrator Associate | Microsoft | Oct 2025 – Oct 2026 |
-| AWS Innovate | AWS | 2025 |
-| NASSCOM Digital Literacy | NASSCOM | 2024 |
+| Project Experience Certificate | PaperLive | 2026 |
+| Paperlive Learning DevOps and AWS Certificate | PaperLive | 2026 |
 
 ---
 
@@ -112,3 +112,5 @@ Deployed a Java food-delivery application through a Jenkins pipeline — Maven b
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mumtaz2029&color=00c896&style=flat-square" alt="Profile views"/>
 </p>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
