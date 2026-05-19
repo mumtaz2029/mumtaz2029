@@ -1,8 +1,9 @@
 # Hi there, I'm Mumtaz Jahan 👋
 
-**DevOps & Cloud Engineer** · Hyderabad, India · Microsoft AZ-104 Certified
+· Microsoft AZ-104 Certified
 
-I build real-world infrastructure — microservices on AWS EKS, end-to-end CI/CD pipelines on Azure DevOps, and IaC-provisioned 3-tier architectures on AWS. Currently completing a 6-month DevOps & Cloud with Gen AI program and actively seeking **remote DevOps / Azure Administrator roles**.
+**DevOps and Cloud Engineer in progress** from Hyderabad. I'm AZ-104 certified and have been spending the last several months building actual projects: microservices deployments on AWS EKS, CI/CD pipelines on Azure DevOps, and full 3-tier infrastructure on AWS using Terraform. I recently wrapped up a 6-month hands-on DevOps and Cloud program and I'm currently looking for  DevOps or Azure Administrator roles. If that's you, let's talk.
+.
 
 ---
 
