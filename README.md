@@ -114,4 +114,7 @@ Deployed a Java food-delivery application through a Jenkins pipeline — Maven b
   <img src="https://komarev.com/ghpvc/?username=mumtaz2029&color=00c896&style=flat-square" alt="Profile views"/>
 </p>
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
+</p>
