@@ -21,7 +21,7 @@ I build real-world infrastructure — microservices on AWS EKS, end-to-end CI/CD
 
 | Certification | Issuer | Valid |
 |---|---|---|
-| **AZ-104** – Azure Administrator Associate | Microsoft | Oct 2025 – Oct 2026 |
+| **AZ-104** – Azure Administrator Associate | Microsoft | May 2026 – May 2027 |
 | Project Experience Certificate | PaperLive | 2026 |
 | Paperlive Learning DevOps and AWS Certificate | PaperLive | 2026 |
 
