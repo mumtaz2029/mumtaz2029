@@ -1,6 +1,6 @@
 # Hi there, I'm Mumtaz Jahan 👋
 
-**DevOps and Cloud Engineer in progress** from Hyderabad. I'm AZ-104 certified and have been spending the last several months building actual projects: microservices deployments on AWS EKS, CI/CD pipelines on Azure DevOps, and full 3-tier infrastructure on AWS using Terraform. I recently wrapped up a 6-month hands-on DevOps and Cloud program and I'm currently looking for  DevOps or Azure Administrator roles. If that's you, let's talk.
+**DevOps and Cloud Engineer in progress** from Hyderabad. I'm AZ-104 certified and have been spending the last several months building actual projects: microservices deployments on AWS EKS, CI/CD pipelines on Azure DevOps, and full 3-tier infrastructure on AWS using Terraform. I recently wrapped up a 6-month hands-on DevOps and Cloud program and I'm currently looking for  DevOps engineer and cloud engineer roles. If that's you, let's talk.
 
 
 ---
@@ -104,7 +104,7 @@ Deployed a Java food-delivery application through a Jenkins pipeline — Maven b
 
 - 📘 Published author — *Running Hyderabad* (available on Amazon)
 - ♟️ Chess enthusiast
-- 🌏 Open to **remote DevOps / Azure Administrator roles**
+- 🌏 Open to ** DevOps /Cloud engineer roles**
 
 ---
 
